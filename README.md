@@ -1,1 +1,1 @@
-# udacity-small-traffic-lights-dataset
+# CarND-Small-Traffic-Lights-Dataset
